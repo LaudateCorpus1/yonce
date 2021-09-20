@@ -8,7 +8,7 @@ permalink: /
 
 ![logo](./images/yonce.png)
 
-A Queen Bey inspired theme for [Bash-It](https://github.com/Bash-it/bash-it), [Visual Studio Code](http://code.visualstudio.com/), [iTerm](http://www.iterm2.com/), [Slack](http://slack.com/) & [Alfred](https://alfredapp.com)
+A Queen Bey inspired theme for [Bash-It](https://github.com/Bash-it/bash-it), [Visual Studio Code](http://code.visualstudio.com/), [iTerm](http://www.iterm2.com/), [Slack](http://slack.com/), [Alfred](https://alfredapp.com), and more!
 
 </div>
 
@@ -35,6 +35,15 @@ _[Bash-it theme documentation](https://github.com/Bash-it/bash-it#themes)_
 3. Then enter Install Extension
 4. Write `yonce-theme`
 5. Select it or press Enter to install
+
+## Visual Studio
+![Visual Studio Preview](./images/visual-studio.jpg)
+
+1. Download and install the extension
+2. Launch Visual Studio
+3. Go to Tools > Options
+4. Go to Environment > Color Theme. Set the color theme to be "Yonce"
+5. Enjoy
 
 ## iTerm
 
